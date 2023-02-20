@@ -1,0 +1,17 @@
+#button 
+{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+h3{
+    font-size: 60px;
+
+}
+body {
+    background-size: cover;
+}
+ canvas {
+    border: 2px dashed white;
+ }
